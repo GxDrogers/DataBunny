@@ -47,4 +47,4 @@ DataBunny is a beautiful, interactive data visualization dashboard built with St
 
 ### 🚀 Try DataBunny Live
 
-[**🐰 Click here to try DataBunny!**](https://databunny.streamlit.app/)
+[**🐰 try DataBunny!**](https://databunny.streamlit.app/)
