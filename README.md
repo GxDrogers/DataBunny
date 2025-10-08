@@ -44,3 +44,7 @@ DataBunny is a beautiful, interactive data visualization dashboard built with St
    ```bash
    git clone https://github.com/GxDrogers/DataBunny.git
    cd DataBunny
+
+### 🚀 Try DataBunny Live
+
+[**🐰 Click here to try DataBunny!**](https://databunny.streamlit.app/)
